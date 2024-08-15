@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Crowdfunding Using Blockchain Technology**
 
-- 🌱 I’m currently learning **NextJS and Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Python**
 
