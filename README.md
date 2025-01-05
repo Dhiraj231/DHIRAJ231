@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhiraj231" alt="dhiraj231" /></a> </p>
 
-- 🔭 I’m currently working on **Crowdfunding Using Blockchain Technology**
+- 🔭 I’m currently working on **SMART CAM**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python,Deep Learning**
 
 - 📫 How to reach me **dhirajkevalram2301@gmail.com**
 
